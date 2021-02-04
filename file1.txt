@@ -1,2 +1,2 @@
 hello world
-we have fixed bug in bug1
+we have fixed bug in bug1 with bug Id 123B
