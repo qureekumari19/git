@@ -1,2 +1,2 @@
 hello world
-we have fixed bug of id B123
+we have fixed bug of id B1234
